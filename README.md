@@ -1,4 +1,4 @@
-# Project Title
+# Acquisition Function testing
 
 Unlabeled Data Labeling with Acquisition Functions - Human in the loop for machine learning
 
