@@ -1,6 +1,9 @@
 *.pdf
 *.docx
 
+*.pkl
+*.png
+
 MNIST
 
 # ------------ BEGIN Jypyter notebook ------------
